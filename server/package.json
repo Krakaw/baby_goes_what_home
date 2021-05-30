@@ -23,7 +23,7 @@
     "morgan": "~1.9.1",
     "node-fetch": "^2.6.1",
     "node-rtsp-stream": "0.0.9",
-    "ws": "^7.3.1"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
